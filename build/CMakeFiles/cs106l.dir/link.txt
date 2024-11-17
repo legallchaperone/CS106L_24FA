@@ -1,0 +1,1 @@
+/usr/bin/c++  -Werror -Wpedantic -Wall -Wextra -Wvla -Wno-unused-result -Wconversion   CMakeFiles/cs106l.dir/cs106l-assignments/assign1/main.cpp.o CMakeFiles/cs106l.dir/cs106l-assignments/assign1/utils.cpp.o  -o cs106l 

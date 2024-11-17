@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/workspaces/CS106L_24FA/build",
+  "command": "/usr/bin/c++    -Werror -Wpedantic -Wall -Wextra -Wvla -Wno-unused-result -Wconversion   -o CMakeFiles/cs106l.dir/cs106l-assignments/assign1/main.cpp.o -c /workspaces/CS106L_24FA/cs106l-assignments/assign1/main.cpp",
+  "file": "/workspaces/CS106L_24FA/cs106l-assignments/assign1/main.cpp"
+},
+{
+  "directory": "/workspaces/CS106L_24FA/build",
+  "command": "/usr/bin/c++    -Werror -Wpedantic -Wall -Wextra -Wvla -Wno-unused-result -Wconversion   -o CMakeFiles/cs106l.dir/cs106l-assignments/assign1/utils.cpp.o -c /workspaces/CS106L_24FA/cs106l-assignments/assign1/utils.cpp",
+  "file": "/workspaces/CS106L_24FA/cs106l-assignments/assign1/utils.cpp"
+}
+]
